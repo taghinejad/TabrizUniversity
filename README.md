@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/sinamomken/tehran-thesis.svg?style=flat-square)](https://github.com/sinamomken/tehran-thesis/releases/latest)
 [![Travis (.org)](https://img.shields.io/travis/sinamomken/tehran-thesis.svg?style=flat-square)](https://travis-ci.org/sinamomken/tehran-thesis)
 
-LaTeX template for MSc/BSc/PhD theses of University of Tehran.
+LaTeX template for MSc/BSc/PhD theses of University of Tabriz.
 <div dir="rtl">قالب لاتک پایان‌نامه دانشگاه تبریز</div>
 
 <div dir="rtl">
