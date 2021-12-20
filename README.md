@@ -1,4 +1,6 @@
 # TabrizUniversity
 # Latex Format for Master and PhD Thesis in University of Tabriz
-## Download the files the main Latex file is main.tex , other chapters is in the 'tex' folder
+## Download all files,  
+## the main Latex file is main.tex
+## You can edit other chapters from tex files is in the 'tex' folder
 
