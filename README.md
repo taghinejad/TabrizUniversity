@@ -23,9 +23,6 @@ LaTeX template for MSc/BSc/PhD theses of University of Tehran.
 
 ### چگونه استفاده کنیم؟
 
-آخرین نسخهٔ منتشرشدهٔ قالب را می‌توانید از
-[![GitHub release](https://img.shields.io/github/release/sinamomken/tehran-thesis.svg?style=flat-square)](https://github.com/sinamomken/tehran-thesis/releases/latest)
-دریافت کنید.
 با دستور زیر نیز می‌توانید به آخرین نسخهٔ در حال توسعهٔ قالب دسترسی داشته باشید:
 <div dir="ltr">
 
@@ -67,15 +64,14 @@ git clone git@github.com:taghinejad/TabrizUniversity.git
 1. Standard headers, odd/even margins and page numberings.
 
 ### How to Use
-It's possible to download the latest released version of template from
-[![GitHub release](https://img.shields.io/github/release/sinamomken/tehran-thesis.svg?style=flat-square)](https://github.com/sinamomken/tehran-thesis/releases/latest).
+
 Also, by the following command you can access to the latest developing version of template:
 
 ```bash
 git clone git@github.com:taghinejad/TabrizUniversity.git
 ```
 
-_tehran-thesis_ latex template is a portable package, that is designed for customization by the student to fill his/her thesis materials.
+this template is a portable package, that is designed for customization by the student to fill his/her thesis materials.
 Therefor, it doesn't need any installation. However, it uses many technologies to fulfill its duties. Dependencies below must be installed:
 
 #### Prerequisites
@@ -92,10 +88,10 @@ Therefor, it doesn't need any installation. However, it uses many technologies t
 * \[Optional\] X Series 2 & Junicode Fonts installed in your system.
 
 ## Screenshots
-#### tehran-thesis in BiDiTexmaker  
+#### tabriz-thesis in BiDiTexmaker  
 ![biditexmaker](./img/bidtexmaker.png "bidtexmaker")
 
-#### tehran-thesis in BiDiTexmaker (draft mode)  
+#### tabriz-thesis in BiDiTexmaker (draft mode)  
 ![biditexmaker-draft](./img/bidtexmaker.png "biditexmaker-draft")
 
 #### Example of citation to various sources  
@@ -117,7 +113,6 @@ More screenshots are available in [`img`][imgs] folder.
 
 [biditexmaker]: http://www.parsilatex.com/joomla/index.php?option=com_remository&Itemid=82&func=select&id=2
 
-[imgs]: https://github.com/sinamomken/tehran-thesis/tree/master/img
 
 [irmug-persian]: http://wiki.irmug.com/index.php/%D9%82%D9%84%D9%85%D9%87%D8%A7%DB%8C_%D8%B3%D8%B1%DB%8C_%D8%A7%DB%8C%DA%A9%D8%B3_%D9%86%D8%B3%D8%AE%D9%87%D9%94_%DB%B2
 [irmug-english]: http://wiki.irmug.com/index.php/X_Series_2
