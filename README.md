@@ -4,7 +4,7 @@
 [![Travis (.org)](https://img.shields.io/travis/sinamomken/tehran-thesis.svg?style=flat-square)](https://travis-ci.org/sinamomken/tehran-thesis)
 
 LaTeX template for MSc/BSc/PhD theses of University of Tehran.
-<div dir="rtl">قالب لاتک پایان‌نامه دانشگاه تهران</div>
+<div dir="rtl">قالب لاتک پایان‌نامه دانشگاه تبریز</div>
 
 <div dir="rtl">
 
