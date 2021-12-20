@@ -72,7 +72,7 @@ It's possible to download the latest released version of template from
 Also, by the following command you can access to the latest developing version of template:
 
 ```bash
-git clone https://github.com/sinamomken/tehran-thesis --single-branch
+git clone git@github.com:taghinejad/TabrizUniversity.git
 ```
 
 _tehran-thesis_ latex template is a portable package, that is designed for customization by the student to fill his/her thesis materials.
