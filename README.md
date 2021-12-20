@@ -93,10 +93,10 @@ Therefor, it doesn't need any installation. However, it uses many technologies t
 
 ## Screenshots
 #### tehran-thesis in BiDiTexmaker  
-![biditexmaker](./img/biditexmaker.png "biditexmaker")
+![biditexmaker](./img/bidtexmaker.png "bidtexmaker")
 
 #### tehran-thesis in BiDiTexmaker (draft mode)  
-![biditexmaker-draft](./img/biditexmaker-draft.png "biditexmaker-draft")
+![biditexmaker-draft](./img/bidtexmaker.png "biditexmaker-draft")
 
 #### Example of citation to various sources  
 <img src="./img/cite-example.jpg" alt="cite-example" width="49%"/> <img src="./img/bibliography.jpg" alt="bibliography" width="49%"/>
