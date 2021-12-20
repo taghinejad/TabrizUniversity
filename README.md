@@ -1,10 +1,10 @@
-# tehran-thesis
+# tabriz-thesis
 
 [![GitHub release](https://img.shields.io/github/release/sinamomken/tehran-thesis.svg?style=flat-square)](https://github.com/sinamomken/tehran-thesis/releases/latest)
 [![Travis (.org)](https://img.shields.io/travis/sinamomken/tehran-thesis.svg?style=flat-square)](https://travis-ci.org/sinamomken/tehran-thesis)
 
 LaTeX template for MSc/BSc/PhD theses of University of Tehran.
-<div dir="rtl">قالب لاتک پایان‌نامه دانشگاه تهران</div>
+<div dir="rtl">قالب لاتک پایان‌نامه دانشگاه تبریز</div>
 
 <div dir="rtl">
 
@@ -30,7 +30,7 @@ LaTeX template for MSc/BSc/PhD theses of University of Tehran.
 <div dir="ltr">
 
 ```bash
-git clone https://github.com/sinamomken/tehran-thesis --single-branch
+git clone git@github.com:taghinejad/TabrizUniversity.git
 ```
 
 </div>
@@ -72,7 +72,7 @@ It's possible to download the latest released version of template from
 Also, by the following command you can access to the latest developing version of template:
 
 ```bash
-git clone https://github.com/sinamomken/tehran-thesis --single-branch
+git clone git@github.com:taghinejad/TabrizUniversity.git
 ```
 
 _tehran-thesis_ latex template is a portable package, that is designed for customization by the student to fill his/her thesis materials.
