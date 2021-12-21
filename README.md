@@ -1,7 +1,5 @@
 # tabriz-thesis
 
-[![GitHub release](https://img.shields.io/github/release/sinamomken/tehran-thesis.svg?style=flat-square)](https://github.com/sinamomken/tehran-thesis/releases/latest)
-[![Travis (.org)](https://img.shields.io/travis/sinamomken/tehran-thesis.svg?style=flat-square)](https://travis-ci.org/sinamomken/tehran-thesis)
 
 LaTeX template for MSc/BSc/PhD theses of University of Tabriz.
 <div dir="rtl">قالب لاتک پایان‌نامه دانشگاه تبریز</div>
@@ -11,10 +9,10 @@ LaTeX template for MSc/BSc/PhD theses of University of Tabriz.
 ## راهنمای فارسی
 ### ویژگی‌ها
 1. منطبق با [«دستورالعمل نگارش و تدوین پایان‌نامه» دانشگاه تبریز][egufa site].
-1. طراحی مدولار و انعطاف‌پذیر، به همراه دستورات از پیش‌تعریف‌شده برای مشخصات متغیر یک پایان‌نامهٔ دانشگاه تهران (مثل عنوان، نام دانشچو، استاد راهنما، تاریخ و غیره).
+1. طراحی مدولار و انعطاف‌پذیر، به همراه دستورات از پیش‌تعریف‌شده برای مشخصات متغیر یک پایان‌نامهٔ دانشگاه تبریز (مثل عنوان، نام دانشچو، استاد راهنما، تاریخ و غیره).
 1. ‫استفاده از قلم‌های استاندارد [سری X نسخهٔ ۲][irmug-persian] یا قلم‌های استاندارد سری [IRFonts][irfonts] اثر شورای عالی اطلاع‌رسانی (به جای قلم‌های غیراستاندارد BFonts).
 1. ‫ساخته شده بر اساس قالب‌های پیشرفته‌های [IUST-Thesis][iust-template] و HSU-Thesis-V1 اثر دکتر محمود امین‌طوسی.
-1. حاوی توضیحات گویا در مورد چگونگی استفاده از این قالب و نیز نکات لازم در مورد نوشتن هر فصل یک پایان‌نامهٔ دانشگاه تهران.
+1. حاوی توضیحات گویا در مورد چگونگی استفاده از این قالب و نیز نکات لازم در مورد نوشتن هر فصل یک پایان‌نامهٔ دانشگاه تبریز.
 1. قابلیت انتخاب سبک‌های ارجاع‌دهی فارسی گوناگون برای رشته‌های مختلف، مطابق با سیستم‌های شماره‌دار و نویسنده-سال.
 1. ‫مدیریت هوشمند واژه‌نامه‌ها و درج اصطلاحات تخصصی، با استفاده از بستهٔ `glossaries` و موتور `xindy`.
 1. ‫قابلیت حاشیه‌نویسی مستقیم در فایل‌های TeX در حالت پیش‌نویس، با استفاده از بستهٔ `todonotes`.
@@ -52,7 +50,7 @@ git clone git@github.com:taghinejad/TabrizUniversity.git
 
 ## English Readme
 ### Features
-1. Compliant with ["Manual of writing and editing thesis of University of Tehran", Sep. 2013][egufa site].
+1. Compliant with ["Manual of writing and editing thesis of University of Tabriz", Sep. 2013][egufa site].
 1. Modular and flexible design, with predefined commands for variables of a standard UT thesis (title, name, supervisor, date, ...).
 1. Use of standard [X Series 2][irmug-english] fonts or standard [IRFonts][irfonts] by SCICT (instead of non-standard BFonts).
 1. Based on professional templates ["IUST-Thesis"][iust-template] and "HSU-Thesis-V1" by Mahmood AminToosi.
@@ -103,7 +101,7 @@ Therefor, it doesn't need any installation. However, it uses many technologies t
 #### Colorized codes and todo notes (in draft version)  
 <img src="./img/algs-codes.jpg" alt="colorized codes" width="49%"/> <img src="./img/todos.jpg" alt="todo notes" width="49%"/>
 
-More screenshots are available in [`img`][imgs] folder.
+
 
 [egufa site]: https://sport.tabrizu.ac.ir/file/download/regulation/2015-01-25_06.20.54_%D9%86%D8%AD%D9%88%D9%87%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D9%86%D8%A7%D9%85%D9%87%20%D8%A7%D8%B1%D8%B4%D8%AF%20%D9%88%20%D8%AF%DA%A9%D8%AA%D8%B1%DB%8C%20%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%20%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2.pdf
 
